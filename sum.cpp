@@ -6,7 +6,7 @@ int main()
     cout<<"Enter two number:";
     cin>>a>>b;
     int dif;
-    dif=a-b;
+    dif=a+b;
     cout<<"\nDIFF is:"<<dif;
     cout<<"\nYOU diff IS ABOVE";
     return 0;
