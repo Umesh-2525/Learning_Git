@@ -9,5 +9,5 @@ int main()
     dif=a-b;
     cout<<"\nDIFF is:"<<dif;
     cout<<"\nYOU diff IS ABOVE";
-    return 0;
+    return 1;
 }
