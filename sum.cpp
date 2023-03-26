@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-    int a,b;
+    int a,b,c;
     cout<<"Enter two number:";
     cin>>a>>b;
     int dif;
-    dif=a+b;
+    dif=a-b;
     cout<<"\nDIFF is:"<<dif;
     cout<<"\nYOU diff IS ABOVE";
     return 0;
